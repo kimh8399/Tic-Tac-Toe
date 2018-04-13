@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1523650250 source:c:\users\matilda\desktop\ccc questions\tic tac toe\main.cpp
+	"libraries.h"
+	"tictactoe.h"
+
+1523649309 c:\users\matilda\desktop\ccc questions\tic tac toe\libraries.h
+	<iostream>
+	<vector>
+	<cstdlib>
+	<time.h>
+
+1523594288 source:c:\users\matilda\desktop\ccc questions\tic tac toe\neuralnet.cpp
+
+1523650855 source:c:\users\matilda\desktop\ccc questions\tic tac toe\tictactoe.cpp
+	"tictactoe.h"
+
+1523648538 c:\users\matilda\desktop\ccc questions\tic tac toe\tictactoe.h
+	"libraries.h"
+

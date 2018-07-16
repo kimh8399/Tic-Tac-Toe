@@ -12,8 +12,4 @@
 
 using namespace std;
 
-typedef  vector<int> Layer;
-
-enum Piece:int{Empty = 0, Nought = 1, Cross = 2};
-
 #endif // LIBRARIES_H_INCLUDED

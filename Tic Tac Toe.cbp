@@ -32,7 +32,12 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="libraries.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="neuralNet.cpp" />
+		<Unit filename="neuralNet.h" />
+		<Unit filename="tictactoe.cpp" />
+		<Unit filename="tictactoe.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />

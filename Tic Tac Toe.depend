@@ -17,3 +17,19 @@
 1523648538 c:\users\matilda\desktop\ccc questions\tic tac toe\tictactoe.h
 	"libraries.h"
 
+1523649692 source:c:\users\huckkim\documents\github\tic-tac-toe\main.cpp
+	"libraries.h"
+	"tictactoe.h"
+
+1523650767 c:\users\huckkim\documents\github\tic-tac-toe\libraries.h
+	<iostream>
+	<vector>
+	<cstdlib>
+	<time.h>
+
+1523650767 c:\users\huckkim\documents\github\tic-tac-toe\tictactoe.h
+	"libraries.h"
+
+1523649692 source:c:\users\huckkim\documents\github\tic-tac-toe\tictactoe.cpp
+	"tictactoe.h"
+
